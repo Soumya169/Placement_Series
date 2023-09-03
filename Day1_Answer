@@ -1,0 +1,33 @@
+1.455 
+2.The mangoes will ripen/ripe over Ɵme, said 
+Ashok. [Both is correct as I leŌ one double 
+quote in quesƟon. (“”)] 
+3.441 (All are Perfect cubes except 441) 
+4.15 
+5.#include <iostream> 
+using namespace std; 
+int main() { 
+ float pH; 
+//Type Of Value is it float,int,double etc. 
+ cout << "Enter the pH value: "; 
+//output as required Value 
+ cin >> pH; 
+//you have to give input value 
+ 
+ if (pH < 7.0) { 
+//if statement starts 
+ cout << "Acidic" << endl; 
+//output 
+ } else if (pH > 7.0) { 
+ cout << "Alkaline" << endl; 
+//output 
+ } else { 
+ cout << "Neutral" << endl; 
+//output 
+ } 
+} 
+ You can prefer different syntax for 
+diff. language but logic is same for all 
+also you can give range also no issue . 
+ 
+*****Thanks to all***** 
