@@ -1,0 +1,65 @@
+1.Ans. Subjugete correct spelling(Subjugate)
+
+
+2.If in a certain code CRYSTAL is written as DTJSXFR then in the same code how
+QUANTUM is written?
+Ans. RWDNYZS  {If Need Detail solution message}
+
+
+3.In a row of students facing north, Sumanth is 8th to the left of Prasanth, who is 12th from the right end. Madhav is 13th from the left end and third to the right of the Sumanth. Find the
+total no of students in the row?
+Ans. 29
+
+
+4.By selling 15 oranges, a fruit seller gains the selling price of 1 orange. Calculate his gain percentage   ?                                                              
+
+Ans. 7.14%
+
+
+5. Print the following pattern input : n=5 output should be like the below pattern .                                                                                                   
+1
+123
+12345
+1234567
+123456789
+1234567
+12345
+123
+1
+
+
+
+ans.
+
+#include <iostream>
+using namespace std;
+
+int main() {
+int i, j, N;
+cout << "Enter N: ";
+cin >> N;
+
+//For upper half triangle
+for (i = 1; i <= N; i++) {
+for (j = 1; j <= (i * 2 - 1); j++) {
+cout << j;
+}
+cout << endl;
+}
+
+//for lower half triangle
+for (i = N - 1; i >= 1; i--) {
+for (j = 1; j <= (i * 2 - 1); j++) {
+cout << j;
+}
+cout << endl;
+}
+
+return 0;
+}
+
+
+
+Note-If you face any difficulty for pattern or triangle base questions just search Love babber's Lectures on youtube
+
+*************All The Best******************
