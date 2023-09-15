@@ -1,0 +1,46 @@
+1.A Shopkeeper bought 30 kg of rice at the rate of Rs. 40 per kg. He sold 40% of the total quantity at the rate of Rs. 50 per kg. At what price per kg should he sell the
+remaining quantity to make a 25% overall profit?
+A. Rs.50
+B. Rs.40
+C. Rs.30
+D. Rs.54
+
+2.Write a function that accepts a sentence as a parameter, and returns the same with each of its words reversed. The returned sentence should have 1 blank space between each pair of words.[Coding Question]
+Example:
+Parameter: “jack and jill went up a hill”
+Return Value: “kcaj dna llij tnew pu a llih”
+
+3.Statements:
+No plant is a tree. All trees are roots. Some branches are roots
+Conclusions:
+I. All roots being plants is a possibility
+II. Some roots are definitely trees
+III. At least some branches are definitely not trees
+A. Only I follow
+B. Only II follows
+C. Only II and III follow
+D. Only I and II follow
+
+4.Despite all the goodies that participants get, I am not going for the competition. {Change the bold letter }
+I. gunning for
+II. competing
+III. taking part in
+A. I, II
+B. II, III
+C. III
+D. II
+
+5.What is the output of following code ?[Precedance Order] Solve using Pen and Paper.
+#include <stdio.h>
+
+int main() {
+
+int a;
+
+a=5+(7,9,3);
+
+printf("%d",a);
+
+return 0;
+
+}
