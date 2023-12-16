@@ -1,0 +1,46 @@
+1.One person start from his home towards college which is 53 km far away. Another person
+started from college towards home after an hour. the speed of first one is 4kmph and the second
+one is 3 kmph. Then, what is the distance from home to their meeting point?
+A.28
+B.32
+C.12
+D.21
+
+2.What will be the output of this pseudocode ?
+main()
+{
+unsigned int i;
+for(i=1;i>-2;i--)
+printf("HCL Technologies");
+}
+a) HCL
+b) Technologies
+c) HCL Technologies
+d) None
+
+3.22.If each of the two parties of knights consists of exactly three members, which of the following
+is not a possible travelling party and route?
+a) P,S,U by the northern route
+b) P,S,T by the northern route
+c) P,S,T by the southern route
+d) P,S,U by the southern route
+e) Q,R,T by the southern route
+
+4.What can be said of the following program?
+main()
+{
+enum Months {JAN =1,FEB,MAR,APR};
+Months X = JAN;
+if(X==1)
+{
+printf("Jan is the first month");
+}
+}
+a) Does not print anything
+b) Prints : Jan is the first month
+c) Generates compilation error
+d) Results in runtime error
+
+5.Write a program to enter two integers and print the quotient 
+
+6.Write a program to draw circles { You can Refer any youtube video or google also }
