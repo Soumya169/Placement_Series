@@ -1,0 +1,36 @@
+1.GOOD is coded as 164, BAD is coded as 21. If UGLY coded as 260 then JUMP ?
+A-240
+B-320
+C-440
+D-210
+
+2. 5 boys and 5girls sit around a circular table. What is the probability that 5 boys are sitting together?
+A - 5/125
+B -5/126
+C -126/5
+D -125/5
+
+3.A, B, C and so on given in each question, when properly sequenced, form a coherent paragraph. Choose the most logical order of sentences from among the four given choices 
+1. Buddhism is a way to salvation.
+A. But Buddhism is more severely analytical.
+B. In the Christian tradition there is also a concern for the fate of human society
+conceived as a whole, rather than merely as a sum or network of individuals.
+C. Salvation is a property, or achievement of individuals.
+D. Not only does it dissolve society into individuals, the individual in turn is dissolved
+into component parts and instants, a steam of events.
+6. In modern terminology, Buddhist doctrine is reductionist.
+[a] ABCD [b] CBAD [c] BDAC [d] ABCD
+
+4.find the output of this code ?
+#include<stdio.h>
+int main()
+{
+printf("%%%%\n");
+return 0;
+}
+A. %%%%%
+B. %%
+C. No output
+D. Error
+
+5.write algorithm of Bubble sort . (Refer any documentation) If you already know the algorithm, solve one problem from GeeksforGeeks or LeetCode about sorting
